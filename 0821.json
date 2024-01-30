@@ -1,6 +1,6 @@
 {
 "spider":"./jar/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
-"lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+"lives":[
 {"name":"YanG•综合","type":0,"url":"https://fongmi.cachefly.net/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明明•ipv6","type":0,"url":"https://fongmi.cachefly.net/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YueChan•综合","type":0,"url":"https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -24,7 +24,6 @@
 {"key":"drpy_js_磁力熊搜索","name":"磁力熊┃搜索[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_新片场","name":"新片场┃新片[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/新片场.js"},
 {"key":"csp_YGP","name":"预告片┃新片","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
-{"key":"csp_Bili","name":"哔哩┃合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"style":{"type":"rect","ratio":1.597},"filterable":1,"changeable":0,"ext":"./json/chuqiuyu.json"},
 {"key":"csp_xuexi","name":"哔哩┃学习园地","type":"3","api":"csp_Bili","searchable":"0","quickSearch":"0","style":{"type":"rect","ratio":1.597},"filterable":"1","changeable":0,"ext":"./json/xuexi.json"},
 {"key":"玩偶哥哥","name":"玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"csp_Aid","name":"急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
